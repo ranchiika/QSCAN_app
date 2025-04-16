@@ -28,3 +28,4 @@ A Mobile-based QR Scanner and Generator App.
 
 Needs user's permission to allow their camera.
 
+![QRScan](https://github.com/user-attachments/assets/7345d3e5-7167-41a7-a000-bf8c9a52cb84)
